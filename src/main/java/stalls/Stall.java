@@ -1,5 +1,7 @@
 package stalls;
 
+import behaviours.IReviewed;
+
 public abstract class Stall {
 
     private String name;
